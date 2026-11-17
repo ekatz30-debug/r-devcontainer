@@ -1,0 +1,11 @@
+{
+  "name": "R Data Science",
+  "image": "mcr.microsoft.com/devcontainers/r:1-4-bullseye",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "REditorSupport.r",
+      ]
+    }
+  }
+}
